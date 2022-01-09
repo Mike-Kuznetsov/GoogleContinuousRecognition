@@ -1,4 +1,8 @@
 # GoogleContinuousRecognition
-Android app, there's apk if you want. It activates if you reach volume threshold saying something.
+### Android app, there's apks if you want. It activates if you reach volume threshold saying something.
 
+This project is libre, and licenced under the terms of the  
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE, version 3.1,  
+as published by dtf on July 2019. See the COPYING file or  
+https://ph.dtf.wtf/w/wtfpl/#version-3-1 for more details.
 ![alt text](https://github.com/Mike-Kuznetsov/GoogleContinuousRecognition/blob/main/googlecontinuousrecognition.png?raw=true)
